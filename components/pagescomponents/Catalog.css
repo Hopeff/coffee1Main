@@ -1,0 +1,239 @@
+.catalog {
+    height: 4000px;
+    background-color:#C3986B;
+
+}
+.c_catalog {
+    font-family: Sofia;
+    font-size: 96px;
+    color: #56361F;
+    margin-top: 29px;
+}
+.c_drinks {
+    font-size: 72px;
+    font-family: Fauna One;
+    color: white;
+    margin-top: 44px;
+}
+
+.c_des{
+    font-family: Fauna One;
+    font-size: 72px;
+    text-align: center;
+    margin-top: 239px;
+    color: #FFFFFF;
+}
+
+.block11 {
+    background-image: url("/src/assets/catalog/Rectangle 10.png");
+    height: 222px;
+    width: 240px;
+    margin-right: 75px;
+    margin-top:100px;
+    display: inline-flex;
+    background-repeat: no-repeat;
+}
+
+.block12 {
+    background-image: url("/src/assets/catalog/Rectangle 13.png");
+    display: inline-flex;
+    height: 222px;
+    width: 240px;
+    margin-left: 75px;
+    margin-top:100px;
+    background-repeat: no-repeat;
+}
+
+.block13 {
+    background-image: url("/src/assets/catalog/Rectangle 12.png");
+    display:inline-flex;
+    height: 222px;
+    width: 240px;
+    margin-left: 100px;
+    margin-top:100px;
+    background-repeat: no-repeat;
+
+}.block14 {
+    background-image: url("/src/assets/catalog/latte.png");
+     height: 270px;
+     width: 240px;
+     margin-right: 75px;
+     margin-top:100px;
+     display: inline-flex;
+     background-repeat: no-repeat;
+}
+
+.block15 {
+    background-image: url("/src/assets/catalog/Mocaacino.png");
+    display: inline-flex;
+    height: 270px;
+    width: 240px;
+    margin-left: 75px;
+    margin-top:100px;
+    background-repeat: no-repeat;
+}
+
+.block16 {
+    background-image: url("/src/assets/catalog/Glace.png");
+    display:inline-flex;
+    height: 270px;
+    width: 240px;
+    margin-left: 100px;
+    margin-top:100px;
+    background-repeat: no-repeat;
+}
+.block17 {
+    background-image: url("/src/assets/catalog/Rectangle 15.png");
+    height: 410px;
+    width: 400px;
+    margin-right: 75px;
+    margin-top:100px;
+    display: inline-flex;
+    background-repeat: no-repeat;
+}
+
+.block18 {
+    background-image: url("/src/assets/catalog/Croisant.png");
+    display: inline-flex;
+    height: 410px;
+    width: 400px;
+    margin-left: 75px;
+    margin-top:100px;
+    background-repeat: no-repeat;
+}
+
+.block19 {
+    background-image: url("/src/assets/catalog/Rectangle 16.png");
+    display: inline-flex;
+    height: 410px;
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 100px;
+    background-repeat: no-repeat;
+}
+
+.block20 {
+    background-image: url("/src/assets/catalog/cheescake.png");
+    height: 410px;
+    width: 400px;
+    margin-right: 75px;
+    margin-top:100px;
+    display: inline-flex;
+    background-repeat: no-repeat;
+}
+
+.block21 {
+    background-image: url("/src/assets/catalog/tiramisu.png");
+    display: inline-flex;
+    height: 410px;
+    width: 400px;
+    margin-left: 75px;
+    margin-top:100px;
+    background-repeat: no-repeat;
+}
+
+.block22 {
+    background-image: url("/src/assets/catalog/Rectangle 18.png");
+    display: inline-flex;
+    height: 410px;
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 100px;
+    background-repeat: no-repeat;
+}
+
+.block23 {
+    background-image: url("/src/assets/catalog/c_esp.png");
+    height: 410px;
+    width: 480px;
+    display: inline-flex;
+    background-repeat: no-repeat;
+}
+
+.block24 {
+    background-image: url("/src/assets/catalog/c_cam.png");
+    display: inline-flex;
+    height: 410px;
+    width: 400px;
+    margin-left: 75px;
+    margin-top:100px;
+    background-repeat: no-repeat;
+}
+
+.block25 {
+    background-image: url("/src/assets/catalog/c_ter.png");
+    display: inline-flex;
+    height: 410px;
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 100px;
+    background-repeat: no-repeat;
+}
+
+.coffee_text {
+    font-size: 48px;
+    font-family: Fauna One;
+    margin-top: 300px;
+    color: white;
+}
+
+.desert_text {
+    font-size: 48px;
+    font-family: Fauna One;
+    margin-top: 400px;
+    padding-left: 80px;
+    color: white;
+}
+
+.cb_text {
+    font-size: 36px;
+    font-family: Fauna One;
+    margin-right: 50px;
+    margin-top: 400px;
+    color: white;
+}
+
+.c_lat {
+    font-size: 48px;
+    font-family: Fauna One;
+    margin-top: 300px;
+    padding-left: 50px;
+    color: white;
+}
+
+.coffee_l1 {
+}
+
+.coffee_l2 {
+    margin-top: 200px;
+}
+
+.coffee_l3 {
+}
+
+.coffee_l4 {
+    margin-top: 100px;
+}
+
+.coffee_l5 {
+    margin-top: 100px;
+}
+
+.c_des{
+    font-family: Fauna One;
+    font-size: 72px;
+    text-align: center;
+    margin-top: 239px;
+    color: #FFFFFF;
+}
+
+.c_cof{
+    Font-family: Fauna One;
+    text-align: center;
+    margin-top: 239px;
+    Font-size: 72px;
+    color: #FFFFFF;
+}
+
+
+
